@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trabalho_POO_Veiculos.Aviao" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAAAAQAAgAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Aviao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.AviaoDeGuerra" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAEAAAAAAAEAAAAAAAAAQAAAAAAAAGAAAgAAAA=</HashCode>
+      <FileName>AviaoDeGuerra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.VeiculoLimpador" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAGAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VeiculoLimpador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Trem" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAIAAACAAAAAA=</HashCode>
+      <FileName>Trem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Pedagio" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAEEIAQAAAAAAAgAAAAIAAIAAAACAAA=</HashCode>
+      <FileName>Pedagio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Onibus" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAAAAAAAFAAAAAQABAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Onibus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Navio" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Navio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Moto" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAAAAAGAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Modelo" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAQARAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Marca" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Carro" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAQAEAAAAAAAgAAAAAQAAAAIAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Caminhao" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgEEAgIBAAABAAAAkAAAAAAAAQAAAAE=</HashCode>
+      <FileName>Caminhao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.Veiculo" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIIAIAAAAAAAEAAAEAAAABAgAAAAIAAgAAAAIAAE=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trabalho_POO_Veiculos.NavioDeGuerra" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>NavioDeGuerra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
